@@ -2,7 +2,7 @@
 
 ### 1. EC2 Instance Configuration
 
-![EC2 Instance](screenshots/01-ec2-instance.png)
+![EC2 Instance](screenshots/screenshots:01-ec2-instance.png)
 
 ### 2. Security Group Configuration
 
